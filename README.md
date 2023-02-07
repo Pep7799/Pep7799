@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Pelumi
-- 🌱 I am currently learning Redux
+- 🌱 I am currently learning
 - 💞️ I’m looking to collaborate on open source and projects
 - 📫 How to reach me folamioluwapelumi1@gmail.com
 
